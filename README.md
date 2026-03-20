@@ -1,16 +1,15 @@
-## Hi there 👋
+## Óla eu sou Jesneiry Hernández👋
 
-<!--
-**jesneiryhernandez-hash/jesneiryhernandez-hash** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Estudante de GPSI (Gestão e Programação de Sistemas Informáticos)
+💻 Interessada em programação e tecnologia
+🚀 Sempre evoluindo nesta área 
 
-Here are some ideas to get you started:
+Atualmente: 
+📚 Estudando programação e desenvolvimento de sistemas
+💡 Aprendendo lógica de programação e boas práticas
+🛠️ Explorando ferramentas como Git e GitHub
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Tecnologias:
+💻 HTML & CSS
+🐍 Python (básico)
+🔧 Git & GitHub

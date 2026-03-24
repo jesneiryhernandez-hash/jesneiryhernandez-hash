@@ -1,15 +1,23 @@
-## Óla eu sou Jesneiry Hernández👋
+Olá, eu sou a Jesneiry Hernández
 
-🎓 Estudante de GPSI (Gestão e Programação de Sistemas Informáticos)
-💻 Interessada em programação e tecnologia
-🚀 Sempre evoluindo nesta área 
+Sou estudante do curso profissional de Gestão e Programação de Sistemas Informáticos (GPSI), com interesse em programação e tecnologia.
+Atualmente, estou a desenvolver as minhas competências em lógica de programação, explorando ferramentas como Git e GitHub.
 
-Atualmente: 
-📚 Estudando programação e desenvolvimento de sistemas
-💡 Aprendendo lógica de programação e boas práticas
-🛠️ Explorando ferramentas como Git e GitHub
+💻 Tecnologias:
+-Portugol
+-Python
+-Visual Studio Code
+-Git e GitHub
 
-Tecnologias:
-💻 HTML & CSS
-🐍 Python (básico)
-🔧 Git & GitHub
+📚 Atualmente a aprender:
+-Lógica de programação
+-Práticas de desenvolvimento
+-Utilização de Git e GitHub
+
+🎯 Objetivos:
+Melhorar as minhas competências em programação
+Desenvolver projetos práticos
+Iniciar uma carreira na área de tecnologia
+
+📬 Contacto:
+Email: jesneiryhernandez@gmail.com 
